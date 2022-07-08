@@ -1,0 +1,2 @@
+#!/bin/sh
+python /data/etc/dbus-orno-meter/dbus-orno-meter.py > /data/etc/dbus-orno-meter/log/orno.log 2> /data/etc/dbus-orno-meter/log/orno_error.log

@@ -1,0 +1,2 @@
+INFO:root:registered ourselves on D-Bus as com.victronenergy.grid.orno_30
+INFO:root:Connected to dbus, and switching over to gobject.MainLoop() (= event based)
